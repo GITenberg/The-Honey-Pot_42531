@@ -1,0 +1,32 @@
+_repo: The-Honey-Pot_42531
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42531-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Barcynska, Countess (Hélène)
+    aliases:
+    - Barcynska, Countess (Helene)
+    - Barcynska, Hélène, Countess
+    birthdate: 1894
+    deathdate: 1964
+    gutenberg_agent_id: '41735'
+    url: http://www.gutenberg.org/2009/agents/41735
+    wikipedia: https://en.wikipedia.org/wiki/Marguerite_Florence_Laura_Jarvis
+description: ''
+gutenberg_issued: '2013-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42531'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Theater -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+title: The Honey-Pot
+url: http://www.gutenberg.org/ebooks/42531
