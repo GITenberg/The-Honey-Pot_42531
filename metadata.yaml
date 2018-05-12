@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41735
     wikipedia: https://en.wikipedia.org/wiki/Marguerite_Florence_Laura_Jarvis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42531#The-Honey-Pot
 gutenberg_issued: '2013-04-14'
 gutenberg_type: Text
 identifiers:
